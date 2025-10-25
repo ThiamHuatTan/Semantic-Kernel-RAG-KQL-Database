@@ -9,3 +9,5 @@ c) [Kuok Group AI Analytics with Semantic Kernel + RAG + KQL Database](https://g
 d) [SMRT Analytics using Semantic Kernel + RAG + KQL Database](https://github.com/ThiamHuatTan/Semantic-Kernel-RAG-KQL-Database/blob/main/SMRT%20Analytics%20using%20Semantic%20Kernel%20%2B%20RAG%20%2B%20KQL%20Database.pdf)
 
 e) [Micron Smart Manufacturing AI with Semantic Kernel + RAG + KQL Database](https://github.com/ThiamHuatTan/Semantic-Kernel-RAG-KQL-Database/blob/main/Micron%20Smart%20Manufacturing%20AI%20with%20Semantic%20Kernel%20%2B%20RAG%20%2B%20KQL%20Database.pdf)
+
+f) [Wah Loon Engineering BIM AI Automation System](https://github.com/ThiamHuatTan/Semantic-Kernel-RAG-KQL-Database/blob/main/Wah%20Loon%20Engineering%20BIM%20AI%20Automation%20System.pdf) 
