@@ -12,4 +12,6 @@ e) [SMRT Analytics using Semantic Kernel + RAG + KQL Database](https://github.co
 
 f) [Micron Smart Manufacturing AI with Semantic Kernel + RAG + KQL Database](https://github.com/ThiamHuatTan/Semantic-Kernel-RAG-KQL-Database/blob/main/Micron%20Smart%20Manufacturing%20AI%20with%20Semantic%20Kernel%20%2B%20RAG%20%2B%20KQL%20Database.pdf)
 
+g) [Town Council Analytics Platform](https://github.com/ThiamHuatTan/Semantic-Kernel-RAG-KQL-Database/blob/main/Town%20Council%20Analytics%20Platform.pdf)
+
 
